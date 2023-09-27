@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "Introduction to Web Development",
+    "img": "https://i.ibb.co/Lk8Zsx3/wec-development.jpg",
+    "description": "Learn the basics of web development and create your first website.",
+    "price": 15000,
+    "credit": 3
+  },
+
+  {
+    "id": 2,
+    "title": "Data Science Fundamentals",
+    "img": "https://i.ibb.co/dj4kfYX/data-science.jpg",
+    "description": "Explore the world of data science and gain essential skills in data analysis.",
+    "price": 25000,
+    "credit": 10
+  },
+
+  {
+    "id": 3,
+    "title": "Mobile App Development with React Native",
+    "img": "https://i.ibb.co/zs3c3QR/react-native.png",
+    "description": "Build cross-platform mobile apps using React Native framework.",
+    "price": 10000,
+    "credit": 5
+  },
+
+  {
+    "id": 4,
+    "title": "Digital Marketing Strategies",
+    "img": "https://i.ibb.co/hgtVM41/digital-marketing.jpg",
+    "description": "Master the art of digital marketing and grow your online presence.",
+    "price": 35000,
+    "credit": 1
+  },
+
+  {
+    "id": 5,
+    "title": "Machine Learning with Python",
+    "img": "https://i.ibb.co/6rNS4SQ/machine-learning.jpg",
+    "description": "Dive into machine learning and build predictive models with Python.",
+    "price": 19000,
+    "credit": 5
+  },
+
+  {
+    "id": 6,
+    "title": "Graphic Design Fundamentals",
+    "img": "https://i.ibb.co/4JCZJ9X/graphic-design.webp",
+    "description": "Learn the principles of graphic design and create stunning visuals.",
+    "price": 49.99,
+    "credit": 3
+  },
+
+  {
+    "id": 7,
+    "title": "Business Finance and Accounting",
+    "img": "https://i.ibb.co/pPvcNM8/finance-accounting.jpg",
+    "description": "Gain financial expertise and manage business finances effectively.",
+    "price": 623000,
+    "credit": 4
+  },
+
+  {
+    "id": 8,
+    "title": "Artificial Intelligence Ethics",
+    "img": "https://i.ibb.co/zrHNgJ0/AI-ethics.jpg",
+    "description": "Explore the ethical implications of artificial intelligence and machine learning.",
+    "price": 23000,
+    "credit": 3
+  },
+
+  {
+    "id": 9,
+    "title": "Photography Basics",
+    "img": "https://i.ibb.co/P9tFpGR/photography.webp",
+    "description": "Master the fundamentals of photography and capture stunning images.",
+    "price": 35000,
+    "credit": 2
+  }
+]
